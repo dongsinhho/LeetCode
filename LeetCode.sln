@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zigzag", "Zigzag\Zigzag.csproj", "{517DF04B-A53E-4130-8987-582EEAB6C685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{2F4716EB-781C-4B38-8F02-C2BC3504DC8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{2F4716EB-781C-4B38-8F02-C2BC3504DC8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReversesInteger\ReverseInteger.csproj", "{88112F33-8DAD-4553-A7BF-ED7C2274254D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2F4716EB-781C-4B38-8F02-C2BC3504DC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F4716EB-781C-4B38-8F02-C2BC3504DC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F4716EB-781C-4B38-8F02-C2BC3504DC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88112F33-8DAD-4553-A7BF-ED7C2274254D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88112F33-8DAD-4553-A7BF-ED7C2274254D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88112F33-8DAD-4553-A7BF-ED7C2274254D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88112F33-8DAD-4553-A7BF-ED7C2274254D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
